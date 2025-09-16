@@ -1,4 +1,4 @@
-# CellGemma — MedGemma × BBBC021  
+# CellGemma — MedGemma 
 *Google GDG Paris Hackathon, July 2025*
 
 > Fine-tuning **MedGemma** (Google’s multimodal vision–language model) on **BBBC021 cell-painting images** with LoRA adapters to generate structured biological captions. Built during the Google GDG Paris *Solve for Healthcare & Life Sciences* Hackathon 2025.
