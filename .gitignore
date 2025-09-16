@@ -1,0 +1,35 @@
+# Python & data artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.log
+*.tmp
+*.cache/
+*.DS_Store
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+*.pt
+*.bin
+*.safetensors
+*.ckpt
+*.onnx
+runs/
+output/
+outputs/
+checkpoints/
+wandb/
+lightning_logs/
+# Datasets & images (keep small CSV/JSONL, ignore heavy images unless intended)
+data/Week1_22123/
+data/images/
+# Environment & IDE
+.env
+.venv
+env/
+venv/
+.idea/
+.vscode/
+# OS
+Thumbs.db

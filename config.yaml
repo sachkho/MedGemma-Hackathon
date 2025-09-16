@@ -1,0 +1,10 @@
+base_model_id: google/medgemma-4b-it
+LoRa: True
+lora_rank: 32
+dataset_path: /home/devstar7104/bbbc021_week1_training.jsonl
+output_dir: /home/devstar7104/ckpt/
+per_device_train_batch_size: 2
+gradient_accumulation_steps: 4
+learning_rate: 2.e-4
+num_train_epochs: 4
+random_seed: 44
